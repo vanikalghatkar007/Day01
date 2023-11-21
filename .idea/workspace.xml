@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1823ae5-bed9-4aa2-8943-8659185d7f09" name="Changes" comment="inheritence">
-      <change afterPath="$PROJECT_DIR$/src/com/Collections/LinkedListApp.java" afterDir="false" />
+    <list default="true" id="a1823ae5-bed9-4aa2-8943-8659185d7f09" name="Changes" comment="Collection">
+      <change afterPath="$PROJECT_DIR$/src/com/Exceptions/DivideTwoNumbersExceptionApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Exceptions/FileCreationExceptionApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Exceptions/ZeroDivisorException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -122,13 +124,21 @@
       <option name="project" value="LOCAL" />
       <updated>1700482966103</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Collection">
+      <created>1700570163570</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1700570163570</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first" />
     <MESSAGE value="second" />
     <MESSAGE value="inheritence" />
-    <option name="LAST_COMMIT_MESSAGE" value="inheritence" />
+    <MESSAGE value="Collection" />
+    <option name="LAST_COMMIT_MESSAGE" value="Collection" />
   </component>
 </project>
